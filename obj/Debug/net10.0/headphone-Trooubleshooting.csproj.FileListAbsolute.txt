@@ -1,0 +1,14 @@
+C:\headphone-Trooubleshooting\bin\Debug\net10.0\headphone-Trooubleshooting.exe
+C:\headphone-Trooubleshooting\bin\Debug\net10.0\headphone-Trooubleshooting.deps.json
+C:\headphone-Trooubleshooting\bin\Debug\net10.0\headphone-Trooubleshooting.runtimeconfig.json
+C:\headphone-Trooubleshooting\bin\Debug\net10.0\headphone-Trooubleshooting.dll
+C:\headphone-Trooubleshooting\bin\Debug\net10.0\headphone-Trooubleshooting.pdb
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.GeneratedMSBuildEditorConfig.editorconfig
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.AssemblyInfoInputs.cache
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.AssemblyInfo.cs
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.csproj.CoreCompileInputs.cache
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.dll
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\refint\headphone-Trooubleshooting.dll
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.pdb
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\headphone-Trooubleshooting.genruntimeconfig.cache
+C:\headphone-Trooubleshooting\obj\Debug\net10.0\ref\headphone-Trooubleshooting.dll
